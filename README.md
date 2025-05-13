@@ -52,7 +52,3 @@ Screenshot
 ## License
 
 This project is based on Microsoft Learn materials and is for educational purposes only.
-
-## GitHub
-
-Project repository: [Add your GitHub repository link here]
